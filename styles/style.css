@@ -1,0 +1,77 @@
+body {
+    
+    text-align: center;
+    background-color: darkkhaki;
+}
+
+a {
+    text-decoration: none;
+}
+
+.Anasayfa-h {
+    color: darkorange;
+    font-size: 70px;
+}
+.Hakkimda-h {
+    color: darkorange;
+    font-size: 70px;
+}
+.Iletisim-h {
+    color: darkorange;
+    font-size: 70px;
+}
+
+
+/***************** Anasayfa layer *****************/
+.tdirenc {
+    color: crimson;
+    font-size: 24px;
+}
+.tdiyot {
+    color: bisque;
+    font-size: 24px;
+}
+.tformator {
+    color: darkmagenta;
+    font-size: 24px;
+}
+
+.direnc-h {
+    color: greenyellow;
+    font-size: 35px;
+}
+.diyot-h {
+    color: greenyellow;
+    font-size: 35px;
+}
+.tformator-h {
+    color: greenyellow;
+    font-size: 35px;
+}
+.nav-eleman {
+    background-color: chocolate;
+    font-size: 28px;
+}
+
+/********************Hakkımda Layer*****************/
+
+.tbilgi {
+    color: brown;
+    font-size: 45px;
+}
+.sss-h {
+    color: greenyellow;
+    font-size: 35px;
+}
+
+/**************Iletisim layer  **********************/
+
+.ibilgi {
+    color:greenyellow;
+    font-size: 35px;
+}
+
+.t-adr {
+    font-size: 22px;
+    color: black;
+}
